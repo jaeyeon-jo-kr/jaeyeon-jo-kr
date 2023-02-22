@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Jaeyeon Jo.
-- Research engineer 
-- Studied model checking.
-- Interested in clojure development(1 years, Experience).
+
 
 
 <!---

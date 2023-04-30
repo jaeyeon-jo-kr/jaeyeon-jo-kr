@@ -50,11 +50,16 @@ Software Engineer, currently interested full-stack development. Previously devel
   - Researched Military Simulation using IoT
   - Tech Stack : C, C++, C#, DDS, RTI
 
-
 ## Skills
-
+- Programming Languages
+  - Mostly used
+    - Clojure, C, C++, C#, Java, Python, Javascript, SQL
+  - Leastly used
+    - ClojureScript, CSS, Octave
 - Language
   - Korean(Native), English(Conversative), Japanese(Daily Conversative (N5~N4))
+- Interested
+  - Attending lisp(Clojure) meetup, Playing game, Listening music
 
 ## Projects
 

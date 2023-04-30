@@ -61,9 +61,13 @@ Software Engineer, currently interested in full-stack development. Previously de
   - Mostly used
     - Clojure, C, C++, C#, Java, Python, Javascript, SQL
   - Leastly used or studied
-    - ClojureScript, CSS, Octave, Scala, PHP
+    - ClojureScript, CSS, Octave(For Learning Deep Learning), Scala, PHP, Elixir, Erlang
+- Concepts
+  - Immutable, Functional, Middleware, Formal Verification, OOP
 - Collaborative tools
   - Microsoft Office, Jira, GitLab, Github, Jira, Slack
+- Tools
+  - AWS ECS 
 - Language
   - Korean(Native), English(Conversative), Japanese(Daily Conversative (N5~N4))
 - Interested
@@ -75,8 +79,7 @@ Software Engineer, currently interested in full-stack development. Previously de
   
 ## Educations
 #### January 2023 - Present
-- Foreign Japanese Language Student
-
+- Foreign Japanese Language Student in Sapporo Language Center
 
 ### 2011 - 2013
 - Master Degree in Konkuk University

@@ -18,10 +18,10 @@ Software Engineer, currently interested full-stack development. Previously devel
   - Back-end Engineer
     - Scheduler, Push notification, Statistics, Document Generation
   - Data Analyze and visualization
-    - Statistics 
+    - Statistics, Creating Graph
   - Maintanence of Front-end
     - Fixing Front-end data
-  - Tech Stack : Clojure, Javascript, Jquery, React.js, TypeScript, Python, MariaDB, SQL Server, AWS, Google Document, Jira, Github
+  - Tech Stack : Clojure, Javascript, Jquery, React.js, TypeScript, Python, Numpy, MariaDB, SQL Server, AWS, Google Document, Jira, Github
 
 #### April 2021 - October 2021
 - Jinong(SmartFarm), *IoT Gateway Developer*
@@ -32,26 +32,40 @@ Software Engineer, currently interested full-stack development. Previously devel
 #### January 2020 - December 2020 
 - Smarf(SmartFarm), *Back-end Team Leader*
   - Design and Develop IoT Back-end Server
-  - Team leading(1 Person)
-  - Tech Stack : Clojure, Python, Miro, Web, MQTT
+    - Developed Iot Controller Between IoT Server and Web
+  - Collaboration with front-end
+  - Team leading (1 Person)
+  - Tech Stack : Clojure, Python, Jira, Miro, Web, MQTT
 
 #### January 2018 - December 2019
-- H2O(B2B Service), IT Research Engineer
-  - Middleware developing using C
-  - Gateway developing using C++
-  - Tech Stack : C, C++, C#, MQTT
+- H2O(B2B Service), *IT Research Engineer*
+  - Middleware Design and development
+  - Gateway for interchanging 
+  - Tech Stack : C, C++, C#, MQTT, Microsoft Office
 
 #### May 2014 - December 2017
-- ETRI(Electric Technology Research Institute)
+- ETRI(Electric Technology Research Institute), *Software Engineering Researcher*
   - Software Engineering Researcher
   - Mainly Software Development managing role
-  - Military Simulation using IoT
+  - Researched Military Simulation using IoT
+  - Tech Stack : C, C++, C#, DDS, RTI
+
+
+## Skills
+
+- Language
+  - Korean(Native), English(Conversative), Japanese(Daily Conversative (N5~N4))
+
+## Projects
+
+
+## Publications
+- 
 
   
 ## Educations
 #### January 2023 - Present
-- Foreign Student
-  - Learning Japanese
+- Foreign Japanese Language Student
   - Practicing css using ClojureScript
   - Worked using vue.js lightly
 

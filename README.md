@@ -47,13 +47,12 @@ Software Engineer, currently interested in full-stack development. Previously de
   - Middleware Design and development
     - Messaging middleware  
   - Gateway for interchanging 
-  - Tech Stack : C, C++, C#, MQTT, Microsoft Office
+  - Tech Stack : C, C++, MQTT, Microsoft Office
 
 #### May 2014 - December 2017
 - ETRI(Electric Technology Research Institute), *Software Engineering Researcher*
-  - Software Engineering Researcher
   - Mainly Software Development managing role
-  - Researched Military Simulation using IoT
+  - Researched Military Simulation with IoT
   - Tech Stack : C, C++, C#, DDS, RTI, Microsoft Office
 
 ## Skills
@@ -63,10 +62,10 @@ Software Engineer, currently interested in full-stack development. Previously de
   - Leastly used or studied
     - ClojureScript, CSS, Octave(For Learning Deep Learning), Scala, PHP, Elixir, Erlang
 - Concepts
-  - Immutable, Functional, Middleware, Formal Verification, OOP
+  - Immutable, Functional, Middleware, Web, Formal Verification, List Processing
 - Collaborative tools
   - Microsoft Office, Jira, GitLab, Github, Jira, Slack
-- Tools
+- Other Tools
   - AWS ECS 
 - Language
   - Korean(Native), English(Conversative), Japanese(Daily Conversative (N5~N4))

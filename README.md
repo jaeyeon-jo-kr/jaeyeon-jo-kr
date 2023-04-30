@@ -77,7 +77,7 @@ Software Engineer, currently interested in full-stack development. Previously de
 
   
 ## Educations
-#### January 2023 - Present
+### January 2023 - Present
 - Foreign Japanese Language Student in Sapporo Language Center
 
 ### 2011 - 2013

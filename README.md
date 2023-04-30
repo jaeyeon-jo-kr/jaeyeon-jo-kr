@@ -7,6 +7,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Jaeyeon Jo
 
+### Contact
+- LinkedIn : https://www.linkedin.com/in/jaeyeon-jo-762668142/
+- Twitter : https://twitter.com/jocatelo_kr
+- email : entertm77@gmail.com
+
 ### Summary 
 
 Software Engineer, currently interested full-stack development. Previously developed web-backend, middleware, gateway and simulator. Also worked as a software research engineer for military simulation.

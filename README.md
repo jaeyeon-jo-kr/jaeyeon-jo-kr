@@ -75,7 +75,7 @@ Software Engineer, currently interested in full-stack development. Previously de
 ## Publications
 ー　https://www.researchgate.net/scientific-contributions/Jaeyeon-Jo-75163168
 
-  
+
 ## Educations
 ### January 2023 - Present
 - Foreign Japanese Language Student in Sapporo Language Center

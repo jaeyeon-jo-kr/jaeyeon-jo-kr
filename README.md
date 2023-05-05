@@ -84,7 +84,7 @@ Software Engineer, currently interested in full-stack development. Previously de
 - Master Degree in Konkuk University
   - Study Formal Verification
   
-### 2005 - 2010
+### 2005 - 2011
 - Graduate Degree in Konkuk University
   - Software Engineer
 

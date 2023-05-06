@@ -5,7 +5,7 @@ jaeyeon-jo-kr/jaeyeon-jo-kr is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Jaeyeon Jo (조재연, ジョジェヨン）
+## Jaeyeon Jo (조재연, ちョジェヨン）
 
 ### Contact
 - LinkedIn : https://www.linkedin.com/in/jaeyeon-jo-762668142/

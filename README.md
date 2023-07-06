@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ### Contact
 - LinkedIn : https://www.linkedin.com/in/jaeyeon-jo-762668142/
 - Twitter : https://twitter.com/jocatelo_kr
-- email : entertm77@gmail.com
+- email : jojaeyeon.kr@gmail.com, entertm77@gmail.com
 
 ### Summary 
 

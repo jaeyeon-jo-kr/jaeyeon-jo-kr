@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Files
 - Japanese
-  - Resume : ./resume_231027.pdf
-  - Job History : ./job_history_0828.pdf
+  - [Resume](./resume_231027.pdf)
+  - [Job History](./job_history_0828.pdf)
 
 ### Summary 
 

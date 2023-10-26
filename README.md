@@ -12,6 +12,11 @@ You can click the Preview link to take a look at your changes.
 - Twitter : https://twitter.com/jocatelo_kr
 - email : jojaeyeon.kr@gmail.com, entertm77@gmail.com
 
+### Files
+- Japanese
+  - Resume : ./resume_231027.pdf
+  - Job History : ./job_history_0828.pdf
+
 ### Summary 
 
 Software Engineer, currently interested in full-stack development. Previously developed web-backend, middleware, gateway and simulator. Also worked as a software research engineer for military simulation.
